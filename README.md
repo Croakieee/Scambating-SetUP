@@ -1,9 +1,3 @@
-# Contributers.
-- @citricacid2 - fixed download link for Windows 10 ISO file; now downloaded from the official Microsoft domain.
-- @ArchGryphon9362 - updated "star milestone" (now removed).
-- @jhstatewide - fixed typo; replaced "screenshot" with "snapshot".
-- @TheCasachii - fixed further typos and punctuation.
-
 # Scam-baiting with a Windows 10 Host using Oracle's VirtualBox.
 
 **Contents:**
